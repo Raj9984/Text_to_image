@@ -1,0 +1,17 @@
+# Requirements #
+
+Used Packages and libraries
+
+0) PYTHON
+1) torch
+2) numpy
+3) matplotlib
+4) diffusers
+5) pillow
+6) jupyter
+7) streamlit
+8) pyngrok
+9) accelerate
+10) pandas
+11) transformers
+*** Cuda toolkit using NVIDIA GPU is preferred over CPU for fast processing of the system file.
